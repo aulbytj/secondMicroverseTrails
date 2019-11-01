@@ -1,0 +1,42 @@
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+main {
+  text-align: center;
+}
+
+li {
+  text-align: justify;
+}
+
+ul {
+  width: 50%;
+  margin: auto;
+}
+
+li {
+  width: 80%;
+  margin: auto;
+  padding: 0.5em 0;
+  font-size: 20px;
+}
+
+body {
+  background-color: sandybrown;
+}
+
+#tribute-info {
+  padding: 0.3em 0;
+}
+
+#img-div {
+  background-color: seashell;
+  padding: 0.8em 0;
+}
+
+p {
+  font-size: 25px;
+  font-weight: 800;
+}
